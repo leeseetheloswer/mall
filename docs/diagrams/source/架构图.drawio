@@ -1,0 +1,100 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.1.2 Chrome/138.0.7204.243 Electron/37.4.0 Safari/537.36" version="28.1.2">
+  <diagram name="第 1 页" id="_j3izNh9ckIT9LhV4tgC">
+    <mxGraphModel dx="1337" dy="707" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kew2kfOLwDjBTN2FC3b5-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="90" width="790" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="kew2kfOLwDjBTN2FC3b5-20" value="展示层" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="100" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kew2kfOLwDjBTN2FC3b5-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="100" width="640" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="kew2kfOLwDjBTN2FC3b5-23" value="Web&lt;div&gt;Vue.js&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kew2kfOLwDjBTN2FC3b5-24" value="Restful接口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="115" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kew2kfOLwDjBTN2FC3b5-25" value="网关层&amp;nbsp;" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="200" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kew2kfOLwDjBTN2FC3b5-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="200" width="450" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kew2kfOLwDjBTN2FC3b5-27" value="Spring Cloud Gateway" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kew2kfOLwDjBTN2FC3b5-28" value="Nginx" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kew2kfOLwDjBTN2FC3b5-29" value="服务层" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="300" width="100" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="kew2kfOLwDjBTN2FC3b5-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="300" width="450" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="kew2kfOLwDjBTN2FC3b5-31" value="数据层" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="560" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kew2kfOLwDjBTN2FC3b5-32" value="用户服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kew2kfOLwDjBTN2FC3b5-33" value="订单服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kew2kfOLwDjBTN2FC3b5-34" value="库存服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kew2kfOLwDjBTN2FC3b5-35" value="搜索服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kew2kfOLwDjBTN2FC3b5-36" value="推荐服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kew2kfOLwDjBTN2FC3b5-37" value="购物车服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kew2kfOLwDjBTN2FC3b5-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="200" width="170" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="kew2kfOLwDjBTN2FC3b5-39" value="服务注册与发现、配置中心&lt;div&gt;Nacos&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="715" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kew2kfOLwDjBTN2FC3b5-40" value="消息队列&lt;div&gt;RocketMQ&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="715" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kew2kfOLwDjBTN2FC3b5-41" value="通知推送服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kew2kfOLwDjBTN2FC3b5-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="560" width="450" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kew2kfOLwDjBTN2FC3b5-46" value="MySQL" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="310" y="570" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kew2kfOLwDjBTN2FC3b5-47" value="Redis" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="420" y="570" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kew2kfOLwDjBTN2FC3b5-48" value="ES" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="530" y="570" width="50" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kew2kfOLwDjBTN2FC3b5-49" value="限流熔断降级&lt;div&gt;Sentinel&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kew2kfOLwDjBTN2FC3b5-50" value="运营/后台服务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kew2kfOLwDjBTN2FC3b5-51" value="&lt;div&gt;监控/可视化&lt;/div&gt;Prometheus + Grafana" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="715" y="465" width="120" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="kew2kfOLwDjBTN2FC3b5-52" value="数据同步&lt;div&gt;Canal&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="715" y="554.5" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
